@@ -2,7 +2,7 @@
 layout: post
 category : java
 tags : [java]
-title: Java技术精要
+title: Java技术拾遗
 ---
 
 #### JAVA序列化
